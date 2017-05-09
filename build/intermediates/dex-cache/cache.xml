@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lio2\Downloads\LockProject-20170503T154657Z-001\LockProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\lio2\Downloads\LockProject-20170503T154657Z-001\LockProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f3ae7a43d957c14ffa4a20e46ecbd5c055d3f2cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lio2\Downloads\LockProject-20170503T154657Z-001\LockProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad78d13534ab88fc54bc7887a4a82fd95d2fdfd0">
+        <dex dex="C:\Users\lio2\Downloads\LockProject-20170503T154657Z-001\LockProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_eadd9a459d38241b8622310c39eb317c5a4b56e8\classes.dex" />
+    </item>
+
+</items>

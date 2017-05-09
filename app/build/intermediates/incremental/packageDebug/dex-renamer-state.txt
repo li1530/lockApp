@@ -1,0 +1,7 @@
+#Wed May 03 14:47:46 CDT 2017
+base.0=C\:\\Users\\lio2\\Downloads\\LockProject-20170503T154657Z-001\\LockProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f3ae7a43d957c14ffa4a20e46ecbd5c055d3f2cf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\lio2\\Downloads\\LockProject-20170503T154657Z-001\\LockProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_eadd9a459d38241b8622310c39eb317c5a4b56e8\\classes.dex
+base.1=C\:\\Users\\lio2\\Downloads\\LockProject-20170503T154657Z-001\\LockProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_eadd9a459d38241b8622310c39eb317c5a4b56e8
+file.0=C\:\\Users\\lio2\\Downloads\\LockProject-20170503T154657Z-001\\LockProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f3ae7a43d957c14ffa4a20e46ecbd5c055d3f2cf\\classes.dex

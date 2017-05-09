@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LockProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_title">Time to Study!</string>
+    <string name="dialog_message">Be Productive</string>
+</resources>
